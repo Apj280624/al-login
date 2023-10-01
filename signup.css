@@ -1,0 +1,48 @@
+.form-div {
+  text-align: center;
+  /* border: 1px solid red; */
+  margin-top: 80px;
+}
+
+.login-a {
+  text-decoration: none;
+  color: white;
+}
+
+.form-input-div {
+  margin: 20px;
+}
+
+.form-input {
+  display: block;
+  margin: auto;
+  border: 1px solid grey;
+  padding: 12px 8px;
+  text-decoration: none;
+  outline: none;
+  width: 240px;
+  font-family: "Roboto mono";
+}
+
+.signup-btn,
+.login-btn {
+  margin-top: 20px;
+  padding: 12px 0;
+  width: 256px;
+  border: none;
+  outline: none;
+  color: white;
+  font-family: "Roboto mono";
+}
+
+.signup-btn {
+  background-color: #fe74be;
+}
+.login-btn {
+  background-color: #999ede;
+}
+
+.redirect-text {
+  font-family: "Roboto mono";
+  font-size: 13px;
+}

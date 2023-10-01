@@ -1,0 +1,42 @@
+.heading {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Roboto Mono";
+}
+
+.outer-div {
+  border: 3px solid grey;
+  border-radius: 10px;
+  padding: 0 50px 50px 50px;
+  margin: 50px 80px 80px 80px;
+  background-color: #999ede;
+}
+
+.contact-label {
+  font-family: "Roboto Mono";
+  color: white;
+}
+
+.contact-input {
+  margin-right: 40px;
+  border: 1px solid black;
+  border-radius: 4px;
+  font-family: "Roboto";
+}
+
+input,
+textarea {
+  outline: none;
+  border: 2px solid black;
+  padding: 3px 10px;
+}
+
+input {
+  height: 30px;
+  width: 220px;
+  margin-top: 50px;
+}
+
+textarea {
+  margin-top: 50px;
+}
